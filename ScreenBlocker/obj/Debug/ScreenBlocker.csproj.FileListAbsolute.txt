@@ -1,0 +1,9 @@
+c:\users\sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\bin\Debug\ScreenBlocker.exe.config
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\bin\Debug\ScreenBlocker.exe
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\bin\Debug\ScreenBlocker.pdb
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.csprojResolveAssemblyReference.cache
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.Form1.resources
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.Properties.Resources.resources
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.csproj.GenerateResource.Cache
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.exe
+C:\Users\Sunrin\documents\visual studio 2013\Projects\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.pdb
